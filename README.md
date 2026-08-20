@@ -11,3 +11,4 @@ Working Version
 
 Stash Version
 
+Hotfix for version 1.0.0
