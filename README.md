@@ -13,3 +13,4 @@ Remote developer change 2
 
 Local developer change
 
+My rewritten local work
